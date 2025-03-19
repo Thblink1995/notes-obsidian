@@ -1,13 +1,21 @@
-
 Namaste = Bonjour
-# interrogatifs
+# Interrogatifs
+#vocabulaire
 	Kya = what
 	ya = ou
 	Kyu = pourquoi 
-	Kara = where  
+	Kyuki = parce que / because
+	Kaha = where / où
+	Kon se = from which / depuis quel
+	
+#phrases
+	... kahaan hai ? = Where is ... ?
+	Isakee keemat kitanee hai ? = How much does it cost ?
+	Main kahaan pa sakata hoon ... ? = Where can I find ... ?
 	
 
 # Basiques
+#vocabulaire
 	Haa / Hanji = oui
 	Nahi = non
 	theek hai = ok  
@@ -26,7 +34,7 @@ Namaste = Bonjour
 	Sashriyakaal = bonjour (informal)
 
 # Verbes
-	
+#verbes
 	khana = to eat
 	peena = to drink
 	jana = to go
@@ -48,40 +56,33 @@ Namaste = Bonjour
 
 
 # Chiffres
-
 	Ek = 1
-	
 	Doo = 2
-	
 	Paanch = 5
-	
 	Das = 10
-	
 	Bees = 20
-	
 	Pachas = 50
-	
 	Sau = 100
-	
 	Doo Sau = 200
-	
 	Paanch Sau = 500
 
 # Phrases basiques
-	
-	Main khush hoon = I am happy
-	Main Thaka/Thaki hoon = I am tired
-	Muhje dar lag raha hai = I am scared
-	Main duhki hoon = i am sad
-	Main tumse pyaar karta/karti hoon = I love you
-	Main gussa hoon = I am angry
-	Yeh kitne ka hai ? = How much does it cost ?
-	Muhje yeh chahiye = I want this
-	Muhje bhook lagi hai = I am hungry
-	Muhje pyaas lagi hai = I am thirsty
-	Sauchalay kahan hai ? = Where is the washroom ?
-	… khan hai ? = Where is … ?
-	Muhje paani chahiye. = I need water.
+#phrases 
+	miscellaneous :
+		Main khush hoon = I am happy
+		Main Thaka/Thaki hoon = I am tired
+		Muhje dar lag raha hai = I am scared
+		Main duhki hoon = i am sad
+		Main tumse pyaar karta/karti hoon = I love you
+		Main gussa hoon = I am angry
+		Yeh kitne ka hai ? = How much does it cost ?
+		Muhje yeh chahiye = I want this
+		Muhje bhook lagi hai = I am hungry
+		Muhje pyaas lagi hai = I am thirsty
+		Sauchalay kahan hai ? = Where is the washroom ?
+		… khan hai ? = Where is … ?
+		Muhje paani chahiye. = I need water.
+		Pagl ho kya ? = T'es fou ou quoi ?
 	
 	emergency phrases :
 		Police ko bulaiye ! = Call the police !
@@ -108,6 +109,9 @@ Namaste = Bonjour
 		Tera naam kya hai ? = comment tu t’appelles ? (Informel)
 		Tera naam Maxime hai ? = Tu t’appelles Maxime ?
 		
+		Tum kaha rahte ho ? = Where do you stay ?
+		Kya tum Panjabi bolte ho = Je vis dans le Penjabi
+		
 		Aap/tu kahan se hai ? = D’où venez vous ?
 		Mai France se hu. = Je viens de France.
 		
@@ -118,13 +122,15 @@ Namaste = Bonjour
 		
 		Kya aap dorha sakte hain ? = Vs pouvez répéter ?
 		
+		Ache nehi se bolta hou = Je parle pas bien hindi
 		Main Hindi tarah se nahi bolta = Je parle pas bien hindi
 		bolti (F)
 		
 		Aapse milkar kushi hui. = Enchanté.
 		Tujhse ————————- = Salut.
 		Milte hai = See you later.
-# Couleurs
+		Dhyaan rakho. = Take care.
+## Couleurs
 	
 	black = kaala
 	Blue = Neela  
@@ -133,7 +139,7 @@ Namaste = Bonjour
 	white = safeed
 	Green = haara
 	Orange = santri  
-# Pronoms
+## Pronoms
 	Mai = je
 	Tu/tum = tu  
 	Aaap = vous  
@@ -143,8 +149,30 @@ Namaste = Bonjour
 	
 	Ma, Muhje, Meri = Me, Myself, I
 
-# Indian attire
+# Vocabulaire
+#vocabulaire
+	maze = table
+	kursi = chaise
+	Chumi = kiss
+	Bahut = very (acha = good, bahut acha = very good)
+	Padhe = arbre
+	Podhe = plantes
+	Huta = chien
+	bahut ache = bravo
+	Bharat = India
+	Bhook = hungry  
+	Pyaas = thirsty  
+	
+	bachpan = childhood
+	naachna = danse
+	sath = avec
+	Khareedaree = shopping
+	khana = food
 
+
+# Thèmes :
+## Indian attire
+#vocabulaire
 
 	mahila(on) = femme(s)
 	purush(on) = homme(s)
@@ -162,7 +190,8 @@ Namaste = Bonjour
 
 woh kya tha ? = What was that ?
 
-# Family
+## Family
+#vocabulaire
 	-ji = suffixe honorifique
 	
 	father side
@@ -204,7 +233,8 @@ woh kya tha ? = What was that ?
 	
 	dushman = ennemi
 
-# Folk dances
+## Folk dances
+#phrases
 	Muhje naachna bahut pasand hai. = j'adore danser.
 	Muhje bachpan se hi naachna bahut pasand hai. = j'adore dancer depuis l'enfance.
 	Kya app mere sath naachna chaahonge ? = voulez vs danser avec moi ?
@@ -216,22 +246,31 @@ woh kya tha ? = What was that ?
 	Main Bharatnatyam nahi jaanta. = Je ne connais pas le Bharatnatyam.
 	Main Kathak seekh raha/rahi hu. = J'apprends le Kathak.
 	Muhje aapke saath naachke bahut acha laga. = C'était fun de danser avec toi.
-	
-# Vocabulaire
-	maze = table
-	kursi = chaise
-	Chumi = kiss
-	Bahut = very (acha = good, bahut acha = very good)
-	Padhe = arbre
-	Podhe = plantes
-	Huta = chien
-	bahut ache = bravo
-	Bharat = India
-	Bhook = hungry  
-	Pyaas = thirsty  
-	
-	bachpan = childhood
-	naachna = danse
-	sath = avec
 
+## Grocery shopping 
+#vocabulaire 
+	Khareedaree = shopping
+	roti = bread
+	doodh = lait
+	ande = oeuf
+	chawal = riz
+	aam = mango
+	tarbooj = watermelon
+	aloo = potato
+	tamatar = tomato
+	pyaaz = ognion
+	gajar = carotte
+	nariyal = noix de coco
+	
+	tel = huiles
+	masaale = épices
+	cheenee = sucre
+	paise = argent
 
+#phrases
+	... kahaan hai ? = Where is the ... ?
+	Kitne ka hai ? = ça coûte combien ?
+
+# t'inquiète
+
+[[code example]]
