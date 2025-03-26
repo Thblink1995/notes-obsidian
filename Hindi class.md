@@ -1,5 +1,9 @@
+   [[Hub]]
+
 Namaste = Bonjour
-# Interrogatifs
+
+# Grammaire / structure
+## Interrogatifs
 #vocabulaire
 	Kya = what
 	ya = ou
@@ -14,26 +18,7 @@ Namaste = Bonjour
 	Main kahaan pa sakata hoon ... ? = Where can I find ... ?
 	
 
-# Basiques
-#vocabulaire
-	Haa / Hanji = oui
-	Nahi = non
-	theek hai = ok  
-	Kripya = svp
-	Bhi = aussi
-	Or = aussi
-	Diyjie = formal way to ask  
-	Bahut = very  
-	Swadisht = delicious  
-	Acha = good / well  
-	Madad = help  
-	Dhanyavad = Merci  
-	Maaf kijye = excusez moi
-	Maaf kar = excusez moi (Informel)
-	Mujhe maaf karen = sorry  
-	Sashriyakaal = bonjour (informal)
-
-# Verbes
+## Verbes
 #verbes
 	khana = to eat
 	peena = to drink
@@ -51,22 +36,7 @@ Namaste = Bonjour
 	
 	-na == to … c’est la forme infinitive
 
-  
-
-
-
-# Chiffres
-	Ek = 1
-	Doo = 2
-	Paanch = 5
-	Das = 10
-	Bees = 20
-	Pachas = 50
-	Sau = 100
-	Doo Sau = 200
-	Paanch Sau = 500
-
-# Phrases basiques
+# Phrases 
 #phrases 
 	miscellaneous :
 		Main khush hoon = I am happy
@@ -151,6 +121,36 @@ Namaste = Bonjour
 
 # Vocabulaire
 #vocabulaire
+## basiques
+	Haa / Hanji = oui
+	Nahi = non
+	theek hai = ok  
+	Kripya = svp
+	Bhi = aussi
+	Or = aussi
+	Diyjie = formal way to ask  
+	Bahut = very  
+	Swadisht = delicious  
+	Acha = good / well  
+	Madad = help  
+	Dhanyavad = Merci  
+	Maaf kijye = excusez moi
+	Maaf kar = excusez moi (Informel)
+	Mujhe maaf karen = sorry  
+	Sashriyakaal = bonjour (informal)
+
+## Chiffres
+	Ek = 1
+	Doo = 2
+	Paanch = 5
+	Das = 10
+	Bees = 20
+	Pachas = 50
+	Sau = 100
+	Doo Sau = 200
+	Paanch Sau = 500
+
+## Divers
 	maze = table
 	kursi = chaise
 	Chumi = kiss
@@ -168,6 +168,7 @@ Namaste = Bonjour
 	sath = avec
 	Khareedaree = shopping
 	khana = food
+
 
 
 # Thèmes :
@@ -271,6 +272,3 @@ woh kya tha ? = What was that ?
 	... kahaan hai ? = Where is the ... ?
 	Kitne ka hai ? = ça coûte combien ?
 
-# t'inquiète
-
-[[code example]]

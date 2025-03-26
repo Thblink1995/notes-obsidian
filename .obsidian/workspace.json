@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hindi class.md",
+                "file": "code example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hindi class"
+              "title": "code example"
+            }
+          },
+          {
+            "id": "4eaaada7ac39b956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "code example"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hindi class.md",
+                "file": "code example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hindi class"
+              "title": "Backlinks for code example"
             }
           },
           {
@@ -142,21 +157,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hindi class.md",
+                "file": "code example.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hindi class"
+              "title": "Outline of code example"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5da81b9cbca663b8",
+  "active": "4eaaada7ac39b956",
   "lastOpenFiles": [
-    "code example.md",
     "Hindi class.md",
     "Welcome.md",
+    "Hub.md",
+    "code example.md",
     "create a link.md",
     "2025-03-17.md",
     "Untitled.canvas"
