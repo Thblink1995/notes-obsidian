@@ -38,75 +38,76 @@ Namaste = Bonjour
 
 # Phrases 
 #phrases 
-	miscellaneous :
-		Main khush hoon = I am happy
-		Main Thaka/Thaki hoon = I am tired
-		Muhje dar lag raha hai = I am scared
-		Main duhki hoon = i am sad
-		Main tumse pyaar karta/karti hoon = I love you
-		Main gussa hoon = I am angry
-		Yeh kitne ka hai ? = How much does it cost ?
-		Muhje yeh chahiye = I want this
-		Muhje bhook lagi hai = I am hungry
-		Muhje pyaas lagi hai = I am thirsty
-		Sauchalay kahan hai ? = Where is the washroom ?
-		… khan hai ? = Where is … ?
-		Muhje paani chahiye. = I need water.
-		Pagl ho kya ? = T'es fou ou quoi ?
+## Miscellaneous 
+	Main khush hoon = I am happy
+	Main Thaka/Thaki hoon = I am tired
+	Muhje dar lag raha hai = I am scared
+	Main duhki hoon = i am sad
+	Main tumse pyaar karta/karti hoon = I love you
+	Main gussa hoon = I am angry
+	Yeh kitne ka hai ? = How much does it cost ?
+	Muhje yeh chahiye = I want this
+	Muhje bhook lagi hai = I am hungry
+	Muhje pyaas lagi hai = I am thirsty
+	Sauchalay kahan hai ? = Where is the washroom ?
+	… khan hai ? = Where is … ?
+	Muhje paani chahiye. = I need water.
+	Pagl ho kya ? = T'es fou ou quoi ?
 	
-	emergency phrases :
-		Police ko bulaiye ! = Call the police !
-		Muhje doctor chahiye = I need a doctor
-		Meri madad kijye ! = Help !
+## Urgences
+	Police ko bulaiye ! = Call the police !
+	Muhje doctor chahiye = I need a doctor
+	Meri madad kijye ! = Help !
+
+## Restaurant 
+	Kya aapke paas menu hai ? = Do you have a menu ?
+	Muhje … chahyie = I would like …
+	Bil dijiye = the bill, please
+	Yeh bahut swadisht hai ! = it’s delicious !
+	Kitri der aur lagegi ? =  ça va prendre combien de temps ?
+
+## Présentation
+	Aap kaise ho ? = Comment allez vous ?
+	Tu kaisa hai ? = Comment tu vas  ? (Informel)
+	kaisi (F)
 	
-	Restaurant :  
-		Kya aapke paas menu hai ? = Do you have a menu ?
-		Muhje … chahyie = I would like …
-		Bil dijiye = the bill, please
-		Yeh bahut swadisht hai ! = it’s delicious !
+	Mai theek hu. = Je vais bien. 
+	Nahi hu = pas bien
 	
-	phrases de présentation
-		Aap kaise ho ? = Comment allez vous ?
-		Tu kaisa hai ? = Comment tu vas  ? (Informel)
-		kaisi (F)
-		
-		Mai theek hu. = Je vais bien. 
-		Nahi hu = pas bien
-		
-		Aapka naam kya hai ? = Comment vs appeleez vs ?
-		Mera nam ... hai. = je m’appelle ...
-		||
-		Tera naam kya hai ? = comment tu t’appelles ? (Informel)
-		Tera naam Maxime hai ? = Tu t’appelles Maxime ?
-		
-		Tum kaha rahte ho ? = Where do you stay ?
-		Kya tum Panjabi bolte ho = Je vis dans le Penjabi
-		
-		Aap/tu kahan se hai ? = D’où venez vous ?
-		Mai France se hu. = Je viens de France.
-		
-		Kya aap meri madida kar sakta/i hain ? = vs pouvez m’aider ?
-		
-		Muhje samajh nahi aaya. = Je ne comprends pas.
-		(nahi est la négation)
-		
-		//.  Muhje nehi pata. = Je ne sais pas.
-		
-		Kya aap dorha sakte hain ? = Vs pouvez répéter ?
-		
-		Ache nehi se bolta hou = Je parle pas bien hindi
-		Main Hindi tarah se nahi bolta = Je parle pas bien hindi
-		bolti (F)
-		
-		Aapse milkar kushi hui. = Enchanté.
-		Tujhse ————————- = Salut.
-		Milte hai = See you later.
-		Dhyaan rakho. = Take care.
+	Aapka naam kya hai ? = Comment vs appeleez vs ?
+	Mera nam ... hai. = je m’appelle ...
+	||
+	Tera naam kya hai ? = comment tu t’appelles ? (Informel)
+	Tera naam Maxime hai ? = Tu t’appelles Maxime ?
+	
+	Tum kaha rahte ho ? = Where do you stay ?
+	Kya tum Panjabi bolte ho = Je vis dans le Penjabi
+	
+	Aap/tu kahan se hai ? = D’où venez vous ?
+	Mai France se hu. = Je viens de France.
+	
+	Kya aap meri madida kar sakta/i hain ? = vs pouvez m’aider ?
+	
+	Muhje samajh nahi aaya. = Je ne comprends pas.
+	(nahi est la négation)
+	
+	//.  Muhje nehi pata. = Je ne sais pas.
+	
+	Kya aap dorha sakte hain ? = Vs pouvez répéter ?
+	
+	Ache nehi se bolta hou = Je parle pas bien hindi
+	Main Hindi tarah se nahi bolta = Je parle pas bien hindi
+	bolti (F)
+	
+	Aapse milkar kushi hui. = Enchanté.
+	Tujhse ————————- = Salut.
+	Milte hai = See you later.
+	Dhyaan rakho. = Take care.
 
 
 # Vocabulaire
 #vocabulaire
-## basiques
+## Basiques
 	Haa / Hanji = oui
 	Nahi = non
 	theek hai = ok  
@@ -123,6 +124,15 @@ Namaste = Bonjour
 	Maaf kar = excusez moi (Informel)
 	Mujhe maaf karen = sorry  
 	Sashriyakaal = bonjour (informal)
+
+## jours de la semaine
+	somvar = lundi
+	mangalvar = mardi
+	budhvar = mercredi
+	viirvar = jeudi
+	shukravar = vendredi
+	shanivar = samedi
+	ravivar = dimanche
 
 ## Chiffres
 	Ek = 1
@@ -299,8 +309,7 @@ woh kya tha ? = What was that ?
 	... kahaan hai ? = Where is the ... ?
 	Kitne ka hai ? = ça coûte combien ?
 
-<<<<<<< HEAD:Hindi class.md
-=======
+
 ## Indian festivals
 #phrases 
 
@@ -317,4 +326,4 @@ woh kya tha ? = What was that ?
 
 
 
->>>>>>> main:files/Hindi class.md
+
