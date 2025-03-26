@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code example.md",
+                "file": "Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code example"
+              "title": "Hub"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code example.md",
+                "file": "Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for code example"
+              "title": "Backlinks for Hub"
             }
           },
           {
@@ -157,17 +157,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code example.md",
+                "file": "Hub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of code example"
+              "title": "Outline of Hub"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,15 +184,15 @@
   },
   "active": "4eaaada7ac39b956",
   "lastOpenFiles": [
-    "temp.txt",
-    "files/code example.md",
-    "files/Welcome.md",
     "files/Hindi class.md",
+    "files/code example.md",
+    "code example.md",
+    "temp.txt",
+    "files/Welcome.md",
     "files",
     "Hindi class.md",
     "Welcome.md",
     "Hub.md",
-    "code example.md",
     "create a link.md",
     "2025-03-17.md",
     "Untitled.canvas"
