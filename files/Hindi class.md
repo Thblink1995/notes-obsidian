@@ -90,6 +90,8 @@ Namaste = Bonjour
 		Muhje samajh nahi aaya. = Je ne comprends pas.
 		(nahi est la négation)
 		
+		//.  Muhje nehi pata. = Je ne sais pas.
+		
 		Kya aap dorha sakte hain ? = Vs pouvez répéter ?
 		
 		Ache nehi se bolta hou = Je parle pas bien hindi
@@ -100,24 +102,7 @@ Namaste = Bonjour
 		Tujhse ————————- = Salut.
 		Milte hai = See you later.
 		Dhyaan rakho. = Take care.
-## Couleurs
-	
-	black = kaala
-	Blue = Neela  
-	Red = Laal
-	Yellow = Peela
-	white = safeed
-	Green = haara
-	Orange = santri  
-## Pronoms
-	Mai = je
-	Tu/tum = tu  
-	Aaap = vous  
-	ham = nous
-	Veh/ve = il/elle
-	Vo = Ils
-	
-	Ma, Muhje, Meri = Me, Myself, I
+
 
 # Vocabulaire
 #vocabulaire
@@ -168,7 +153,49 @@ Namaste = Bonjour
 	sath = avec
 	Khareedaree = shopping
 	khana = food
+	
+	Animaux
+		chien = Khuta
+		vache = gae
+		singe = bandar
+		porc = suar
+		cheval = ghora
+	
+	Directions
+		droite = dayan
+		gauche = 
+		en face = 
+		haut = 
+		bas = nitche
+		centre = biitchme
+	
+	Corps
+		nakhun = ongles
+		khuun = sang
+		peer = jambes
+		baahl = cheveux
+		haat = mains
+		lamba = grand
+		chota = petit
+## Couleurs
+	
+	black = kaala
+	Blue = Neela  
+	Red = Laal
+	Yellow = Peela
+	white = safeed
+	Green = haara
+	Orange = santri  
 
+## Pronoms
+	Mai = je
+	Tu/tum = tu  
+	Aaap = vous  
+	ham = nous
+	Veh/ve = il/elle
+	Vo = Ils
+	
+	Ma, Muhje, Meri = Me, Myself, I
 
 
 # Thèmes :
@@ -272,3 +299,22 @@ woh kya tha ? = What was that ?
 	... kahaan hai ? = Where is the ... ?
 	Kitne ka hai ? = ça coûte combien ?
 
+<<<<<<< HEAD:Hindi class.md
+=======
+## Indian festivals
+#phrases 
+
+#vocabulaire 
+	Diwali = festival of light
+	roshanee = lumière
+	tyohaar = festival
+	Navratri = dance/festival to godess Durga
+	vratr = nuit
+	Naasna = dance
+	haathee = éléphant
+	sir = tête
+
+
+
+
+>>>>>>> main:files/Hindi class.md
