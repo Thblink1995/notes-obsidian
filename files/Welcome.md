@@ -1,8 +1,4 @@
-<<<<<<< HEAD:Welcome.md
-   [[Hub]]
-=======
-[[Hub]]
->>>>>>> main:files/Welcome.md
+#   [[Hub]]
 
 This is your new *vault*.
 

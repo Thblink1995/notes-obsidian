@@ -1,4 +1,4 @@
-   [[Hub]]
+#  [[Hub]]
 
 Namaste = Bonjour
 
@@ -211,7 +211,6 @@ Namaste = Bonjour
 # Thèmes :
 ## Indian attire
 #vocabulaire
-
 	mahila(on) = femme(s)
 	purush(on) = homme(s)
 	
