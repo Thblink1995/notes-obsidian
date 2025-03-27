@@ -1,6 +1,6 @@
 #   [[Hub]]
 
-[[Hindi class]]
+
 
 ```c
 int main(int temp) {

@@ -1,5 +1,6 @@
 #   [[Hub]]
-[[Hindi class]]
+[[Vocabulaire-phrases]]
+[[Grammaire]]
 [[code example]]
 [[Welcome]]
 

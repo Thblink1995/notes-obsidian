@@ -341,9 +341,13 @@ woh kya tha ? = What was that ?
 	baayein = gauche
 	daayein = droite
 	seedha = tout droit
+	
+
 
 
 # présentation
 #phrases
 	aapka swagat hai = You're welcome
 	shama kijiye = excusez moi
+
+
