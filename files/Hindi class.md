@@ -1,7 +1,6 @@
 #  [[Hub]]
 
 Namaste = Bonjour
-
 # Grammaire / structure
 ## Interrogatifs
 #vocabulaire
@@ -124,6 +123,7 @@ Namaste = Bonjour
 	Maaf kar = excusez moi (Informel)
 	Mujhe maaf karen = sorry  
 	Sashriyakaal = bonjour (informal)
+
 
 ## jours de la semaine
 	somvar = lundi
@@ -306,7 +306,8 @@ woh kya tha ? = What was that ?
 
 #phrases
 	... kahaan hai ? = Where is the ... ?
-	Kitne ka hai ? = ça coûte combien ?
+	Yeh kitne ka hai ? = ça coûte combien ?
+	Kya aapke paas ... hai ? = Est-ce que vous avez ... ?
 
 
 ## Indian festivals
@@ -322,7 +323,27 @@ woh kya tha ? = What was that ?
 	haathee = éléphant
 	sir = tête
 
+## Transports en communs
+#phrases 
+	Yeh bus/train kahaan jaati hai ? = Où va ce train / bus ?
+	Kiraya kitna hai ? = Combien coûte le ticket ?
+	
+	[...] kahaan hai ? = Where is [...] ?
+	
+
+#vocabulaire 
+	bus = bus
+	railgadi = train
+	auto = tuktuk
+
+### directions
+#vocabulaire 
+	baayein = gauche
+	daayein = droite
+	seedha = tout droit
 
 
-
-
+# présentation
+#phrases
+	aapka swagat hai = You're welcome
+	shama kijiye = excusez moi
