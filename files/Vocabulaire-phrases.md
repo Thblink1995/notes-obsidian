@@ -17,6 +17,7 @@ Namaste = Bonjour
 	Main kahaan pa sakata hoon ... ? = Where can I find ... ?
 	
 
+
 ## Verbes
 #verbes
 	khana = to eat
@@ -29,6 +30,7 @@ Namaste = Bonjour
 	Likhna = to write  
 	Chalna = to walk
 	Bulaiye = to call
+	honeko = être
 	
 	Pasand = aimer
 	sikhyaenge = enseigner
