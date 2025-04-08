@@ -74,10 +74,12 @@ Example :
 *def : it indicates possession or relationship.*
 
 On rajoute **ka** ou **ki** selon le genre.
+Ça se place juste après le possesseur.
 
 Example : 
 
-- This is Ram's house. -> Yeh Ram ka ghar hai;
+- This is Ram ***'s*** house. -> Yeh Ram ***ka*** ghar hai;
+- My mother ***'s*** saree is very beautiful. -> Meri maa ***ki*** saadi bahut sundar hai.
 
 
 
