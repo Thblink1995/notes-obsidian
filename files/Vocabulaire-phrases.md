@@ -206,15 +206,7 @@ Namaste = Bonjour
 	White = Safeed
 	Yellow = Peela
 
-## Pronoms
-	Mai = Je
-	Tu/tum = Tu
-	Veh/ve = Il/Elle
-	Ham = Nous
-	Aaap = Vous
-	Vo = Ils
-	
-	Ma, Muhje, Meri = Me, Myself, I
+
 # Thèmes :
 ## Indian attire
 #vocabulaire
