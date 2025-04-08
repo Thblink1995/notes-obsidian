@@ -39,13 +39,45 @@ Example :
 
 Example :
 
-- Ram writes with a pencil. -> Ram pencil se likhna.
+- Ram writes with a pencil. -> Ram pencil ***se*** likhna.
   Le ***se*** vient se mettre après l'objet.
-- Child is playing with the toy. -> Bacha kiloma se ke hai.
-- I fell from the chair. -> Main kursee se gir gaya.
+- Child is playing with the toy. -> Bacha kiloma ***se*** ke hai.
+- I fell from the chair. -> Main kursee ***se*** gir gaya.
 
-  
+## Dative case - Sampradan
 
+*def :  it indicates the receiver of an action.*
+
+for = ke lyie
+desfois c'est ke lyie, des fois c'est ko 🤷
+
+Example :
+
+- Dev bought an ice cream *for* a friend. -> Dev ne ek dost **ke liye** aiskreem kharidi.
+- Ravi gave Mohan a book. -> Ravi ne Mohan ***ko*** ek kitaab di.
+- We brought food for the poor. -> Hum gareebon ke liye khana laye.
+
+## Ablative case - Apādān
+
+*def : It shows separation or movement away from something.*
+
+On utilise aussi ***se*** mais avec un placement différent.
+
+Example :
+
+- La feuille est tombée de l'arbre. -> Patta ped **se** gira.
+  Le **se** s'est rajouté pcq la feuille s'est éloignée de l'arbre
+- I took this book from a friend. -> Maine yeh kitaab dost **se** li.
+
+## Genitive/possessive case - Sambandh
+
+*def : it indicates possession or relationship.*
+
+On rajoute **ka** ou **ki** selon le genre.
+
+Example : 
+
+- This is Ram's house. -> Yeh Ram ka ghar hai;
 
 
 

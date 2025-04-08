@@ -20,17 +20,18 @@ Namaste = Bonjour
 
 ## Verbes
 #verbes
-	khana = to eat
-	peena = to drink
-	jana = to go
-	Aana = to come  
-	Dekhna = to see  
-	Bolna = to speak  
-	sunna = to listen
-	Likhna = to write  
-	Chalna = to walk
-	Bulaiye = to call
+	khana = to eat / manger
+	peena = to drink / boire
+	jana = to go / aller
+	Aana = to come  / venir
+	Dekhna = to see  / voir
+	Bolna = to speak  / parler
+	sunna = to listen / écouter
+	Likhna = to write  / écrire
+	Chalna = to walk / marcher
+	Bulaiye = to call / appeler
 	honeko = être
+	dena = donner
 	
 	Pasand = aimer
 	sikhyaenge = enseigner
