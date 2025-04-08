@@ -125,6 +125,8 @@ Namaste = Bonjour
 	Maaf kar = excusez moi (Informel)
 	Mujhe maaf karen = sorry  
 	Sashriyakaal = bonjour (informal)
+	shikshak = prof
+	samjhaya = la classe
 
 
 ## jours de la semaine

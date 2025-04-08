@@ -1,5 +1,6 @@
-Main ne roti khana
+Sujet ne objet verbe (passé)
 
-Main roti khata hu
+Sujet objet ko verbe (objet affecté par l'action)
 
-Main roti fork se khata hu
+Sujet objet se verbe (objet est outil / utilisé)
+
