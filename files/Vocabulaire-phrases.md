@@ -130,14 +130,29 @@ Namaste = Bonjour
 	samjhaya = la classe
 
 
-## jours de la semaine
-	somvar = lundi
-	mangalvar = mardi
-	budhvar = mercredi
-	viirvar = jeudi
-	shukravar = vendredi
-	shanivar = samedi
-	ravivar = dimanche
+## Animaux
+	Gae = Cow
+	Dog = Kuta
+	Elephant = Haathee
+	Horse = Gorhaa
+	Pig = Suar
+## Body part
+	Peetha = Back
+	Khuun = Blood
+	Con = Ear
+	Hank = Eyes
+	Ball = Hairs
+	Haath = Hands
+	Sir = Head
+	Dil = Heart
+	Paidhe = Legs
+	Hoth = Lips
+	Nakhun = Nails
+	Naak = Nose
+	Kanta = Shoulder
+	Chamari = Skin
+
+
 
 ## Chiffres
 	Ek = 1
@@ -150,6 +165,197 @@ Namaste = Bonjour
 	Doo Sau = 200
 	Paanch Sau = 500
 
+
+## Clothing
+	Cloth = Kapre
+
+	Baniyan = Vest
+	Chaphal = Slippers/Flip-Flop
+	Chota/Chote = Short
+	Dastane = Gloves
+	Jute = Shoes
+	Kameez = Shirt
+	
+	Topi = Cap/Hat
+	Payajama = Pajamas
+	
+	
+	Shopping = Shopping
+	Sweater = Sweater
+	Patloon/Pant = Trousers/Pants
+	Pagdis = Turban
+## Jours de la semaine
+	somvar = lundi
+	mangalvar = mardi
+	budhvar = mercredi
+	viirvar = jeudi
+	shukravar = vendredi
+	shanivar = samedi
+	ravivar = dimanche
+
+## Couleurs
+
+	Couleur = Rang
+	
+	Black = Kaala
+	Blue = Neela
+	Green = Haara
+	Orange = Santri
+	Pink = Gulabi
+	Red = Laal
+	White = Safeed
+	Yellow = Peela
+
+## Pronoms
+	Mai = Je
+	Tu/tum = Tu
+	Veh/ve = Il/Elle
+	Ham = Nous
+	Aaap = Vous
+	Vo = Ils
+	
+	Ma, Muhje, Meri = Me, Myself, I
+# Thèmes :
+## Indian attire
+#vocabulaire
+	Mahila(on) = femme(s)
+	Purush(on) = homme(s)
+	
+	Lehenga -> Un genre de robe traditionelle
+	
+	Tum sundar lag rahi hai
+	Tum sundar lag raha hai
+	You are looking beautiful / handsome
+	salwar = pantalon large de femme
+	chunni = l'espèce d'écharpe sur les vêtements tradi
+	topi = casquette/chapeau
+	Chaphal = flip flops
+	Jute = shoes
+
+woh kya tha ? = What was that ?
+
+## Family
+#vocabulaire
+	-ji = suffixe honorifique
+	
+	Father side
+		Peta ji = Papa
+		
+		Dada ji = Grd père paternel
+		Dadi ji = Grd mère --------
+		
+		Chacha ji = Oncle plus jeune que père
+		Chachi = Sa femme
+		Tao ji = Oncle plus vieux que père
+		Tai ji = Sa femme
+		
+		Bua ji = Tante
+		Foofa ji = Son mari
+		
+	Mother side
+		Mata ji = Maman
+		
+		Nana ji = Grd père maternel
+		Nani ji = Grd mère --------
+		
+		Mama ji = Oncle
+		Mami ji = Sa femme
+		
+		Masi ji = Tante
+		Moasa ji = Son mari
+	
+	Relatifs directs
+		Bhen = Soeur plus jeune
+		Didi = Soeur plus vieille
+		Bhai = Frère plus jeune
+		Bhaiya = Frère plus vieux
+		Bhabhi ji = Sa femme
+		
+		Dost = Friend
+		Ex : Mehre dosto = My friends
+		Ex : Tum sam mehre dost ho = Vous êtes mes amis
+	
+	Dushman = Ennemi
+
+## Folk dances
+#phrases
+	Muhje naachna bahut pasand hai. = j'adore danser.
+	Muhje bachpan se hi naachna bahut pasand hai. = j'adore dancer depuis l'enfance.
+	Kya app mere sath naachna chaahonge ? = voulez vs danser avec moi ?
+	Aap bahut achha naachte ho. = Tu danses si bien.
+	Bhangra bahut joshila naach hai. = Bhangra est très physique. (c'est une danse)
+	Kya aap muhje Bhangra sikhyaenge ? = Voulez vous m'apprendre le Bhangra ?
+	Garba Gujarat ka lok naach hai. = Garba is the folk dance of Gujarat.
+	Voh Giddha kar rahi hai. = Elle dance le Giddha. (penjabi) (femmes only)
+	Main Bharatnatyam nahi jaanta. = Je ne connais pas le Bharatnatyam.
+	Main Kathak seekh raha/rahi hu. = J'apprends le Kathak.
+	Muhje aapke saath naachke bahut acha laga. = C'était fun de danser avec toi.
+
+## Grocery shopping 
+#vocabulaire 
+	Khareedaree = Shopping
+	Roti = Bread
+	Doodh = Lait
+	Ande = Oeuf
+	Chawal = Riz
+	Aam = Mango
+	Tarbooj = Watermelon
+	Aloo = Potato
+	Tamatar = Tomato
+	Pyaaz = Ognion
+	Gajar = Carotte
+	Nariyal = Noix de coco
+	
+	Tel = Huiles
+	Masaale = Epices
+	Cheenee = Sucre
+	Paise = Argent
+
+#phrases
+	... kahaan hai ? = Where is the ... ?
+	Yeh kitne ka hai ? = Ca coûte combien ?
+	Kya aapke paas ... hai ? = Est-ce que vous avez ... ?
+
+
+## Indian festivals
+#phrases 
+
+#vocabulaire 
+	Diwali = Festival of light
+	Roshanee = Lumière
+	Tyohaar = Festival
+	Navratri = Dance/festival to godess Durga
+	Vratr = Nuit
+	Naasna = Dance
+	Haathee = Eléphant
+	Sir = Tête
+
+## Transports en communs
+#phrases 
+	Yeh bus/train kahaan jaati hai ? = Où va ce train / bus ?
+	Kiraya kitna hai ? = Combien coûte le ticket ?
+	
+	[...] kahaan hai ? = Where is [...] ?
+	
+
+#vocabulaire 
+	Bus = Bus
+	Railgadi = Train
+	Auto = Tuktuk
+
+### Directions
+#vocabulaire 
+	Baayein = Gauche
+	Daayein = Droite
+	Seedha = Tout droit
+	
+
+
+
+# Présentation
+#phrases
+	Aapka swagat hai = You're welcome
+	Shama kijiye = Excusez moi
 ## Divers
 	maze = table
 	kursi = chaise
@@ -178,7 +384,7 @@ Namaste = Bonjour
 	
 	Directions
 		droite = dayan
-		gauche = 
+		gauche = Bahina/Bayan
 		en face = 
 		haut = 
 		bas = nitche
@@ -192,167 +398,3 @@ Namaste = Bonjour
 		haat = mains
 		lamba = grand
 		chota = petit
-## Couleurs
-	
-	black = kaala
-	Blue = Neela  
-	Red = Laal
-	Yellow = Peela
-	white = safeed
-	Green = haara
-	Orange = santri  
-
-## Pronoms
-	Mai = je
-	Tu/tum = tu  
-	Aaap = vous  
-	ham = nous
-	Veh/ve = il/elle
-	Vo = Ils
-	
-	Ma, Muhje, Meri = Me, Myself, I
-
-
-# Thèmes :
-## Indian attire
-#vocabulaire
-	mahila(on) = femme(s)
-	purush(on) = homme(s)
-	
-	lehenga -> un genre de robe traditionelle
-	
-	Tum sundar lag rahi hai
-	Tum sundar lag raha hai  
-	You are looking beautiful / handsome
-	salwar = pantalon large de femme
-	chunni = l'espèce d'écharpe sur les vêtements tradi
-	topi = casquette/chapeau
-	Chaphal = flip flops
-	Jute = shoes
-
-woh kya tha ? = What was that ?
-
-## Family
-#vocabulaire
-	-ji = suffixe honorifique
-	
-	father side
-		peta ji = papa
-		
-		dada ji = grd père paternel
-		dadi ji = grd mère --------
-		
-		chacha ji = oncle plus jeune que père
-		chachi = sa femme
-		tao ji = oncle plus vieux que père
-		tai ji = sa femme
-		
-		bua ji = tante
-		foofa ji = son mari
-		
-	mother side
-		mata ji = maman
-		
-		nana ji = grd père maternel
-		nani ji = grd mère --------
-		
-		mama ji = oncle
-		mami ji = sa femme
-		
-		masi ji = tante
-		moasa ji = son mari
-	
-	relatifs directs
-		bhen = soeur plus jeune
-		didi = soeur plus vieille
-		bhai = frère plus jeune
-		bhaiya = frère plus vieux
-		bhabhi ji = sa femme
-		
-		dost = friend
-		ex : mehre dosto = my friends
-		ex : Tum sam mehre dost ho = vs êtes mes amis
-	
-	dushman = ennemi
-
-## Folk dances
-#phrases
-	Muhje naachna bahut pasand hai. = j'adore danser.
-	Muhje bachpan se hi naachna bahut pasand hai. = j'adore dancer depuis l'enfance.
-	Kya app mere sath naachna chaahonge ? = voulez vs danser avec moi ?
-	Aap bahut achha naachte ho. = Tu danses si bien.
-	Bhangra bahut joshila naach hai. = Bhangra est très physique. (c'est une danse)
-	Kya aap muhje Bhangra sikhyaenge ? = Voulez vous m'apprendre le Bhangra ?
-	Garba Gujarat ka lok naach hai. = Garba is the folk dance of Gujarat.
-	Voh Giddha kar rahi hai. = Elle dance le Giddha. (penjabi) (femmes only)
-	Main Bharatnatyam nahi jaanta. = Je ne connais pas le Bharatnatyam.
-	Main Kathak seekh raha/rahi hu. = J'apprends le Kathak.
-	Muhje aapke saath naachke bahut acha laga. = C'était fun de danser avec toi.
-
-## Grocery shopping 
-#vocabulaire 
-	Khareedaree = shopping
-	roti = bread
-	doodh = lait
-	ande = oeuf
-	chawal = riz
-	aam = mango
-	tarbooj = watermelon
-	aloo = potato
-	tamatar = tomato
-	pyaaz = ognion
-	gajar = carotte
-	nariyal = noix de coco
-	
-	tel = huiles
-	masaale = épices
-	cheenee = sucre
-	paise = argent
-
-#phrases
-	... kahaan hai ? = Where is the ... ?
-	Yeh kitne ka hai ? = ça coûte combien ?
-	Kya aapke paas ... hai ? = Est-ce que vous avez ... ?
-
-
-## Indian festivals
-#phrases 
-
-#vocabulaire 
-	Diwali = festival of light
-	roshanee = lumière
-	tyohaar = festival
-	Navratri = dance/festival to godess Durga
-	vratr = nuit
-	Naasna = dance
-	haathee = éléphant
-	sir = tête
-
-## Transports en communs
-#phrases 
-	Yeh bus/train kahaan jaati hai ? = Où va ce train / bus ?
-	Kiraya kitna hai ? = Combien coûte le ticket ?
-	
-	[...] kahaan hai ? = Where is [...] ?
-	
-
-#vocabulaire 
-	bus = bus
-	railgadi = train
-	auto = tuktuk
-
-### directions
-#vocabulaire 
-	baayein = gauche
-	daayein = droite
-	seedha = tout droit
-	
-
-
-
-# présentation
-#phrases
-	aapka swagat hai = You're welcome
-	shama kijiye = excusez moi
-
-
