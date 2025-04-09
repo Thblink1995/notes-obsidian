@@ -110,24 +110,24 @@ Namaste = Bonjour
 # Vocabulaire
 #vocabulaire
 ## Basiques
-	Haa / Hanji = oui
-	Nahi = non
-	theek hai = ok  
-	Kripya = svp
-	Bhi = aussi
-	Or = aussi
-	Diyjie = formal way to ask  
-	Bahut = very  
-	Swadisht = delicious  
-	Acha = good / well  
-	Madad = help  
-	Dhanyavad = Merci  
-	Maaf kijye = excusez moi
-	Maaf kar = excusez moi (Informel)
-	Mujhe maaf karen = sorry  
-	Sashriyakaal = bonjour (informal)
-	shikshak = prof
-	samjhaya = la classe
+	Haa / Hanji = Oui
+	Nahi = Non
+	Theek hai = Ok
+	Kripya = Svp
+	Bhi = Aussi
+	Or = Et
+	Diyjie = Formal way to ask  
+	Bahut = Very  
+	Swadisht = Delicious  
+	Acha = Good / Well  
+	Madad = Help
+	Dhanyavad = Merci
+	Maaf kijye = Excusez moi
+	Maaf kar = Excusez moi (Informel)
+	Mujhe maaf karen = I am sorry
+	Sashriyakaal = Bonjour (informal)
+	Shikshak = Prof
+	Samjhaya = La classe
 
 
 ## Animaux
