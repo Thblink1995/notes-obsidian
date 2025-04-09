@@ -69,7 +69,7 @@ Example :
 
 - Dev bought an ice cream *for* a friend. -> Dev ne ek dost **ke liye** aiskreem kharidi.
 - Ravi gave Mohan a book. -> Ravi ne Mohan ***ko*** ek kitaab di.
-- We brought food for the poor. -> Hum gareebon ke liye khana laye.
+- We brought food for the poor. -> Hum gareebon **ke liye** khana laye.
 
 ## Ablative case - Apādān
 
@@ -95,6 +95,29 @@ Example :
 - This is Ram ***'s*** house. -> Yeh Ram ***ka*** ghar hai;
 - My mother ***'s*** saree is very beautiful. -> Meri maa ***ki*** saadi bahut sundar hai.
 
+## Locative case - Adhikaran
+
+> *It denotes the location or place where an action occurs*
+
+Mein = in (prononcé mé)
+Per = on
+
+Example :
+
+- Ram studies **in** school. -> Ram school **mein** padha hai.
+- He is playing **in** the garden. -> Wah bagiche **mein** khel raha hai.
+- Keep the pen **on** the table. -> Pen ko table **per** rak do.
+
+## Vocative case - Sambodhan
+
+> *It is used to adress someone directly.*
+
+Oh! -> He! (oui c'est tout.)
+
+Example : 
+
+- Hey boy ! Come here ! -> Are ladke! Idhar aao.
+- Oh Ram! Help me. -> He Ram! Meri madad karo.
 
 
 
