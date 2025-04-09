@@ -2,10 +2,24 @@
 
 En Hindi, on mets toujours l'objet avant le verbe.
 
+# Pronoms
+
+	Mai = Je
+	Tu/tum = Tu
+	Veh/ve = Il/Elle
+	Ham = Nous
+	Aaap = Vous
+	Vo = Ils
+
+Ma, Muhje, Meri = Me, Myself, I
+
+Hoon va à la fin de la phrase pour parler de soi même.
+
+
 # Cases
 ## Nominative - karta
 
->*def : Que au past tense, décrit la personne qui agit.*
+>*Que au past tense, décrit la personne qui agit.*
 
 The king protected the people. = Raja ***ne*** praja ki raksha ki. (raja = king)
 
@@ -19,7 +33,7 @@ Example :
 
 ## Objective/accusative - Karm 
 
->*def : It denotes the object of the action in a sentence.*
+>*It denotes the object of the action in a sentence.*
 
 on doit le mettre quand l'objet principal devient affecté par l'action
 
@@ -32,7 +46,7 @@ Example :
 
 ## Instrumental case - Karan 
 
->*def : it indicates the means or instrument by which an action is performed.*
+>*It indicates the means or instrument by which an action is performed.*
 
 ça veut à peu près dire with mais pas vraiment,
 à utiliser quand on dit genre : je fais telle action avec tel outil
@@ -46,7 +60,7 @@ Example :
 
 ## Dative case - Sampradan
 
->*def :  it indicates the receiver of an action.*
+>*It indicates the receiver of an action.*
 
 for = ke lyie
 desfois c'est ke lyie, des fois c'est ko 🤷
@@ -59,7 +73,7 @@ Example :
 
 ## Ablative case - Apādān
 
->*def : It shows separation or movement away from something.*
+>*It shows separation or movement away from something.*
 
 On utilise aussi ***se*** mais avec un placement différent.
 
@@ -71,7 +85,7 @@ Example :
 
 ## Genitive/possessive case - Sambandh
 
->*def : it indicates possession or relationship.*
+>*It indicates possession or relationship.*
 
 On rajoute **ka** ou **ki** selon le genre.
 Ça se place juste après le possesseur.
