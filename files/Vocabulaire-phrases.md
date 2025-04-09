@@ -162,6 +162,44 @@ Namaste = Bonjour
 	Red = Laal
 	White = Safeed
 	Yellow = Peela
+## Divers
+### Meubles
+	Maze = Table
+	Kursi = Chaise
+
+
+	Chumi = kiss
+	Bahut = very (acha = good, bahut acha = very good)
+	Padhe = arbre
+	Podhe = plantes
+	Huta = chien
+	bahut ache = bravo
+	Bharat = India
+	Bhook = hungry
+	Pyaas = thirsty
+	
+	bachpan = childhood
+	naachna = danse
+	sath = avec
+	Khareedaree = shopping
+	khana = food
+	
+	Directions
+		droite = dayan
+		gauche = Bahina/Bayan
+		en face = 
+		haut = 
+		bas = nitche
+		centre = biitchme
+	
+	Corps
+		nakhun = ongles
+		khuun = sang
+		peer = jambes
+		baahl = cheveux
+		haat = mains
+		lamba = grand
+		chota = petit
 ## Jours de la semaine
 	Somvar = lundi
 	Mangalvar = mardi
@@ -351,45 +389,3 @@ woh kya tha ? = What was that ?
 #phrases
 	Aapka swagat hai = You're welcome
 	Shama kijiye = Excusez moi
-## Divers
-	maze = table
-	kursi = chaise
-	Chumi = kiss
-	Bahut = very (acha = good, bahut acha = very good)
-	Padhe = arbre
-	Podhe = plantes
-	Huta = chien
-	bahut ache = bravo
-	Bharat = India
-	Bhook = hungry  
-	Pyaas = thirsty  
-	
-	bachpan = childhood
-	naachna = danse
-	sath = avec
-	Khareedaree = shopping
-	khana = food
-	
-	Animaux
-		chien = Khuta
-		vache = gae
-		singe = bandar
-		porc = suar
-		cheval = ghora
-	
-	Directions
-		droite = dayan
-		gauche = Bahina/Bayan
-		en face = 
-		haut = 
-		bas = nitche
-		centre = biitchme
-	
-	Corps
-		nakhun = ongles
-		khuun = sang
-		peer = jambes
-		baahl = cheveux
-		haat = mains
-		lamba = grand
-		chota = petit
