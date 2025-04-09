@@ -136,7 +136,41 @@ Namaste = Bonjour
 	Elephant = Haathee
 	Horse = Gorhaa
 	Pig = Suar
-## Body part
+
+## Chiffres
+	Ek = 1
+	Doo = 2
+	Paanch = 5
+	Das = 10
+	Bees = 20
+	Pachas = 50
+	Sau = 100
+	Doo Sau = 200
+	Paanch Sau = 500
+
+
+
+## Couleurs
+
+	Couleur = Rang
+	
+	Black = Kaala
+	Blue = Neela
+	Green = Haara
+	Orange = Santri
+	Pink = Gulabi
+	Red = Laal
+	White = Safeed
+	Yellow = Peela
+## Jours de la semaine
+	somvar = lundi
+	mangalvar = mardi
+	budhvar = mercredi
+	viirvar = jeudi
+	shukravar = vendredi
+	shanivar = samedi
+	ravivar = dimanche
+## Parties du corps
 	Peetha = Back
 	Khuun = Blood
 	Con = Ear
@@ -151,61 +185,6 @@ Namaste = Bonjour
 	Naak = Nose
 	Kanta = Shoulder
 	Chamari = Skin
-
-
-
-## Chiffres
-	Ek = 1
-	Doo = 2
-	Paanch = 5
-	Das = 10
-	Bees = 20
-	Pachas = 50
-	Sau = 100
-	Doo Sau = 200
-	Paanch Sau = 500
-
-
-## Clothing
-	Cloth = Kapre
-
-	Baniyan = Vest
-	Chaphal = Slippers/Flip-Flop
-	Chota/Chote = Short
-	Dastane = Gloves
-	Jute = Shoes
-	Kameez = Shirt
-	
-	Topi = Cap/Hat
-	Payajama = Pajamas
-	
-	
-	Shopping = Shopping
-	Sweater = Sweater
-	Patloon/Pant = Trousers/Pants
-	Pagdis = Turban
-## Jours de la semaine
-	somvar = lundi
-	mangalvar = mardi
-	budhvar = mercredi
-	viirvar = jeudi
-	shukravar = vendredi
-	shanivar = samedi
-	ravivar = dimanche
-
-## Couleurs
-
-	Couleur = Rang
-	
-	Black = Kaala
-	Blue = Neela
-	Green = Haara
-	Orange = Santri
-	Pink = Gulabi
-	Red = Laal
-	White = Safeed
-	Yellow = Peela
-
 ## Pronoms
 	Mai = Je
 	Tu/tum = Tu
@@ -215,6 +194,21 @@ Namaste = Bonjour
 	Vo = Ils
 	
 	Ma, Muhje, Meri = Me, Myself, I
+## Vêtements
+	Cloth = Kapre
+
+	Baniyan = Vest
+	Chaphal = Slippers/Flip-Flop
+	Chota/Chote = Short
+	Dastane = Gloves
+	Jute = Shoes
+	Kameez = Shirt
+	Pagdis = Turban
+	Patloon/Pant = Trousers/Pants
+	Payajama = Pajamas
+	Shopping = Shopping
+	Sweater = Sweater
+	Topi = Cap/Hat
 # Thèmes :
 ## Indian attire
 #vocabulaire
