@@ -110,24 +110,24 @@ Namaste = Bonjour
 # Vocabulaire
 #vocabulaire
 ## Basiques
-	Haa / Hanji = oui
-	Nahi = non
-	theek hai = ok  
-	Kripya = svp
-	Bhi = aussi
-	Or = aussi
-	Diyjie = formal way to ask  
-	Bahut = very  
-	Swadisht = delicious  
-	Acha = good / well  
-	Madad = help  
-	Dhanyavad = Merci  
-	Maaf kijye = excusez moi
-	Maaf kar = excusez moi (Informel)
-	Mujhe maaf karen = sorry  
-	Sashriyakaal = bonjour (informal)
-	shikshak = prof
-	samjhaya = la classe
+	Haa / Hanji = Oui
+	Nahi = Non
+	Theek hai = Ok
+	Kripya = Svp
+	Bhi = Aussi
+	Or = Et
+	Diyjie = Formal way to ask
+	Bahut = Very
+	Swadisht = Delicious
+	Acha = Good / Well
+	Madad = Help
+	Dhanyavad = Merci
+	Maaf kijye = Excusez moi
+	Maaf kar = Excusez moi (Informel)
+	Mujhe maaf karen = I am sorry
+	Sashriyakaal = Bonjour (informal)
+	Shikshak = Prof
+	Samjhaya = La classe
 
 
 ## Animaux
@@ -136,23 +136,6 @@ Namaste = Bonjour
 	Elephant = Haathee
 	Horse = Gorhaa
 	Pig = Suar
-## Body part
-	Peetha = Back
-	Khuun = Blood
-	Con = Ear
-	Hank = Eyes
-	Ball = Hairs
-	Haath = Hands
-	Sir = Head
-	Dil = Heart
-	Paidhe = Legs
-	Hoth = Lips
-	Nakhun = Nails
-	Naak = Nose
-	Kanta = Shoulder
-	Chamari = Skin
-
-
 
 ## Chiffres
 	Ek = 1
@@ -166,32 +149,6 @@ Namaste = Bonjour
 	Paanch Sau = 500
 
 
-## Clothing
-	Cloth = Kapre
-
-	Baniyan = Vest
-	Chaphal = Slippers/Flip-Flop
-	Chota/Chote = Short
-	Dastane = Gloves
-	Jute = Shoes
-	Kameez = Shirt
-	
-	Topi = Cap/Hat
-	Payajama = Pajamas
-	
-	
-	Shopping = Shopping
-	Sweater = Sweater
-	Patloon/Pant = Trousers/Pants
-	Pagdis = Turban
-## Jours de la semaine
-	somvar = lundi
-	mangalvar = mardi
-	budhvar = mercredi
-	viirvar = jeudi
-	shukravar = vendredi
-	shanivar = samedi
-	ravivar = dimanche
 
 ## Couleurs
 
@@ -205,8 +162,54 @@ Namaste = Bonjour
 	Red = Laal
 	White = Safeed
 	Yellow = Peela
+## Jours de la semaine
+	Somvar = lundi
+	Mangalvar = mardi
+	Budhvar = mercredi
+	Viirvar = jeudi
+	Shukravar = vendredi
+	Shanivar = samedi
+	Ravivar = dimanche
+## Parties du corps
+	Ball = Hairs
+	Chamari = Skin
+	Con = Ear
+	Dil = Heart
+	Haath = Hands
+	Hank = Eyes
+	Hoth = Lips
+	Kanta = Shoulder
+	Khuun = Blood
+	Nakhun = Nails
+	Naak = Nose
+	Paidhe = Legs
+	Paite = Stomach
+	Peetha = Back
+	Sir = Head 
+## Pronoms
+	Mai = Je
+	Tu/tum = Tu
+	Veh/ve = Il/Elle
+	Ham = Nous
+	Aaap = Vous
+	Vo = Ils
+	
+	Ma, Muhje, Meri = Me, Myself, I
+## Vêtements
+	Cloth = Kapre
 
-
+	Baniyan = Vest
+	Chaphal = Slippers/Flip-Flop
+	Chota/Chote = Short
+	Dastane = Gloves
+	Jute = Shoes
+	Kameez = Shirt
+	Pagdis = Turban
+	Patloon/Pant = Trousers/Pants
+	Payajama = Pajamas
+	Shopping = Shopping
+	Sweater = Sweater
+	Topi = Cap/Hat
 # Thèmes :
 ## Indian attire
 #vocabulaire
