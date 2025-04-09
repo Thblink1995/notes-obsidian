@@ -1,6 +1,33 @@
 #  [[Hub]]
 
 Namaste = Bonjour
+
+# A classer
+	bahut ache = bravo
+	Bharat = India
+	bachpan = childhood
+	naachna = danse
+	sath = Avec
+	Khareedaree = Shopping
+	Chumi = kiss
+	Bahut = very (acha = good, bahut acha = very good)
+	Sub = Tous
+	Kyuki = Parce que
+	 Cheenee = Chinois
+	 Aramdayak = Confortable
+	 Swadisht = Délicieux
+	 Kya aap ? = Do you ?
+	 Ghass = Herbe
+	 Khush = Joyeux
+	 Madad = A l'aide
+	 Chalo = Let's go
+	 Sharahk = Bouge/Casse toi
+	 Naya = Nouveau
+	 Nouvel an = Nayaa saal
+	 Ya = Ou
+	 Loge = Les gens
+	 Tsundare = Mignon
+	 Suraksha = Protective
 # Grammaire / structure
 ## Interrogatifs
 #vocabulaire
@@ -166,25 +193,18 @@ Namaste = Bonjour
 ### Meubles
 	Maze = Table
 	Kursi = Chaise
-
-
-	Chumi = kiss
-	Bahut = very (acha = good, bahut acha = very good)
+### Plantes
 	Padhe = arbre
 	Podhe = plantes
-	Huta = chien
-	bahut ache = bravo
-	Bharat = India
-	Bhook = hungry
-	Pyaas = thirsty
-	
-	bachpan = childhood
-	naachna = danse
-	sath = avec
-	Khareedaree = shopping
+### Food
 	khana = food
 	
-	Directions
+	Bhook = hungry
+	Pyaas = thirsty
+### Description
+		lamba = grand
+		chota = petit
+### Direction
 		droite = dayan
 		gauche = Bahina/Bayan
 		en face = 
@@ -192,14 +212,7 @@ Namaste = Bonjour
 		bas = nitche
 		centre = biitchme
 	
-	Corps
-		nakhun = ongles
-		khuun = sang
-		peer = jambes
-		baahl = cheveux
-		haat = mains
-		lamba = grand
-		chota = petit
+
 ## Jours de la semaine
 	Somvar = lundi
 	Mangalvar = mardi
@@ -209,21 +222,21 @@ Namaste = Bonjour
 	Shanivar = samedi
 	Ravivar = dimanche
 ## Parties du corps
-	Ball = Hairs
-	Chamari = Skin
-	Con = Ear
-	Dil = Heart
-	Haath = Hands
-	Hank = Eyes
-	Hoth = Lips
-	Kanta = Shoulder
-	Khuun = Blood
-	Nakhun = Nails
-	Naak = Nose
-	Paidhe = Legs
-	Paite = Stomach
-	Peetha = Back
-	Sir = Head 
+	Ball = Cheveux
+	Chamari = Peau
+	Con = Oreille
+	Dil = Coeur
+	Haath = Mains
+	Hank = Yeux
+	Hoth = Lèvres
+	Kanta = Epaules
+	Khuun = Sang
+	Nakhun = Ongles
+	Naak = Nez
+	Paidhe = Jambes
+	Paite = Estomac
+	Peetha = Dos
+	Sir = Tête
 ## Pronoms
 	Mai = Je
 	Tu/tum = Tu
