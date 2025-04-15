@@ -8,7 +8,7 @@ En Hindi, on mets toujours l'objet avant le verbe.
 	Tu/tum = Tu
 	Veh/ve = Il/Elle
 	Ham = Nous
-	Aaap = Vous
+	Aap = Vous
 	Vo = Ils
 
 Ma, Muhje, Meri = Me, Myself, I
