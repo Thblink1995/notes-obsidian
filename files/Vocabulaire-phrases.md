@@ -5,7 +5,7 @@ Namaste / Namascar = Bonjour
 # A classer
 	bahut ache = bravo
 	Bharat = India
-	bachpan = childhood
+	bachpan = Childhood
 	naachna = Danse
 	sath = Avec
 	Khareedaree = Shopping
@@ -20,7 +20,6 @@ Namaste / Namascar = Bonjour
 	 Ghass = Herbe
 	 Khush = Joyeux
 	 Madad = A l'aide
-	 Chalo = Let's go
 	 Sharahk = Bouge/Casse toi
 	 Naya = Nouveau
 	 Nouvel an = Nayaa saal
@@ -82,6 +81,9 @@ Namaste / Namascar = Bonjour
 	… khan hai ? = Where is … ?
 	Muhje paani chahiye. = I need water.
 	Pagl ho kya ? = T'es fou ou quoi ?
+	Kripya gate/daarwaza kholdo = Please, open the door
+	Khidki band Kardo = Close the window
+	Kiprya baith jao = Please, sit down
 	
 ## Urgences
 	Police ko bulaiye ! = Call the police !
@@ -155,8 +157,7 @@ Namaste / Namascar = Bonjour
 	Sashriyakaal = Bonjour (informal)
 	Shikshak = Prof
 	Samjhaya = La classe
-
-
+	Chalo = Let's go
 ## Animaux
 	Gae = Cow
 	Dog = Kuta
@@ -176,7 +177,6 @@ Namaste / Namascar = Bonjour
 	Paanch Sau = 500
 
 ## Couleurs
-
 	Couleur = Rang
 	
 	Black = Kaala
