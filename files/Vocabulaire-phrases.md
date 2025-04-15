@@ -175,8 +175,6 @@ Namaste = Bonjour
 	Doo Sau = 200
 	Paanch Sau = 500
 
-
-
 ## Couleurs
 
 	Couleur = Rang
