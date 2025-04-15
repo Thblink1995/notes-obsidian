@@ -84,6 +84,8 @@ Namaste / Namascar = Bonjour
 	Kripya gate/daarwaza kholdo = Please, open the door
 	Khidki band Kardo = Close the window
 	Kiprya baith jao = Please, sit down
+	Mai university jaa raha hu = I am going to the university
+	Yeahai mai dost co = She is my friend
 	
 ## Urgences
 	Police ko bulaiye ! = Call the police !
