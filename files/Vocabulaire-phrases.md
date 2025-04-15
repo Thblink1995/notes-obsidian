@@ -1,16 +1,16 @@
 #  [[Hub]]
 
-Namaste = Bonjour
+Namaste / Namascar = Bonjour
 
 # A classer
 	bahut ache = bravo
 	Bharat = India
 	bachpan = childhood
-	naachna = danse
+	naachna = Danse
 	sath = Avec
 	Khareedaree = Shopping
-	Chumi = kiss
-	Bahut = very (acha = good, bahut acha = very good)
+	Chumi = Kiss
+	Bahut = Very (acha = good, bahut acha = very good)
 	Sub = Tous
 	Kyuki = Parce que
 	 Cheenee = Chinois
