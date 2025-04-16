@@ -119,6 +119,9 @@ Example :
 - Hey boy ! Come here ! -> Are ladke! Idhar aao.
 - Oh Ram! Help me. -> He Ram! Meri madad karo.
 
+## Action présente, en déroulement
+	Kya kar rahe = do-ing
+	
 
 
 
