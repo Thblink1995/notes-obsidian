@@ -207,8 +207,8 @@ Namaste / Namascar = Bonjour
 ### Direction
 		droite = dayan
 		gauche = Bahina/Bayan
-		en face = 
-		haut = 
+		en face = saamne
+		haut = upar
 		bas = nitche
 		centre = biitchme
 	
@@ -275,7 +275,7 @@ Namaste / Namascar = Bonjour
 	salwar = pantalon large de femme
 	chunni = l'espèce d'écharpe sur les vêtements tradi
 	topi = casquette/chapeau
-	Chaphal = flip flops
+	Chaphal = tongues
 	Jute = shoes
 
 woh kya tha ? = What was that ?
