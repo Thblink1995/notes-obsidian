@@ -86,11 +86,13 @@ Namaste / Namascar = Bonjour
 	Kiprya baith jao = Please, sit down
 	Mai university jaa raha hu = I am going to the university
 	Yeahai mai dost co = She is my friend
+	Tum kya kar rahe ho? = what are you doing ? 
 	
 ## Urgences
 	Police ko bulaiye ! = Call the police !
 	Muhje doctor chahiye = I need a doctor
 	Meri madad kijye ! = Help !
+	Meri madad chaiye. = I need your help.
 
 ## Restaurant 
 	Kya aapke paas menu hai ? = Do you have a menu ?
