@@ -15,6 +15,8 @@ Ma, Muhje, Meri = Me, Myself, I
 
 Hoon va à la fin de la phrase pour parler de soi même.
 
+1lahk = 100 000
+1 crore = 100 000 000
 
 # Cases
 ## Nominative - karta
