@@ -19,7 +19,7 @@ Hoon va à la fin de la phrase pour parler de soi même.
 1 krore = 10 000 000
 
 # Cases
-## Nominative - karta
+## Nominative - Karta
 
 >*Que au past tense, décrit la personne qui agit.*
 
