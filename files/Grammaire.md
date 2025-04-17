@@ -15,6 +15,8 @@ Ma, Muhje, Meri = Me, Myself, I
 
 Hoon va à la fin de la phrase pour parler de soi même.
 
+1 lahk = 100 000
+1 krore = 10 000 000
 
 # Cases
 ## Nominative - karta
@@ -119,6 +121,9 @@ Example :
 - Hey boy ! Come here ! -> Are ladke! Idhar aao.
 - Oh Ram! Help me. -> He Ram! Meri madad karo.
 
+## Action présente, en déroulement
+	Kya kar rahe = do-ing
+	
 
 
 
