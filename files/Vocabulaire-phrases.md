@@ -46,26 +46,26 @@ Namaste / Namascar = Bonjour
 
 ## Verbes
 #verbes
-	khana = to eat / manger
-	peena = to drink / boire
-	jana = to go / aller
-	Aana = to come  / venir
-	Dekhna = to see  / voir
-	Bolna = to speak  / parler
-	sunna = to listen / écouter
-	Likhna = to write  / écrire
-	Chalna = to walk / marcher
-	Bulaiye = to call / appeler
-	honeko = être
-	dena = donner
+	Khana = To eat / manger
+	Peena = To drink / boire
+	Jana = To go / aller
+	Aana = To come  / venir
+	Dekhna = To see  / voir
+	Bolna = To speak  / parler
+	Sunna = To listen / écouter
+	Likhna = To write  / écrire
+	Chalna = To walk / marcher
+	Bulaiye = To call / appeler
+	Honeko = être
+	Dena = Donner
 	Bhagna = To run
 	Pehnana = To wear 
 	Rona = To cry 
 	Hassna = To laugh
 	Banana/Pakana = To cook
 	
-	Pasand = aimer
-	sikhyaenge = enseigner
+	Pasand = Aimer
+	sikhyaenge = Enseigner
 	
 	-na == to … c’est la forme infinitive
 
