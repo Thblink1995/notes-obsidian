@@ -87,6 +87,7 @@ Namaste / Namascar = Bonjour
 	Mai university jaa raha hu = I am going to the university
 	Yeahai mai dost co = She is my friend
 	Tum kya kar rahe ho? = what are you doing ? 
+	Chalne ka samay ho gaya hai. = It's time to go.
 	
 ## Urgences
 	Police ko bulaiye ! = Call the police !
