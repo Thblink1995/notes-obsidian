@@ -58,6 +58,11 @@ Namaste / Namascar = Bonjour
 	Bulaiye = to call / appeler
 	honeko = être
 	dena = donner
+	Bhagna = To run
+	Pehnana = To wear 
+	Rona = To cry 
+	Hassna = To laugh
+	Banana/Pakana = To cook
 	
 	Pasand = aimer
 	sikhyaenge = enseigner
