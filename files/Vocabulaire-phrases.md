@@ -95,7 +95,6 @@ Namaste / Namascar = Bonjour
 	Muhje doctor chahiye = I need a doctor
 	Meri madad kijye ! = Help !
 	Meri madad chaiye. = I need your help.
-
 ## Restaurant 
 	Kya aapke paas menu hai ? = Do you have a menu ?
 	Muhje … chahyie = I would like …
