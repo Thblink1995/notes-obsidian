@@ -27,6 +27,7 @@ Namaste / Namascar = Bonjour
 	 Loge = Les gens
 	 Tsundare = Mignon
 	 Suraksha = Protective
+	 Rukein = Attend
 # Grammaire / structure
 ## Interrogatifs
 #vocabulaire
@@ -36,14 +37,10 @@ Namaste / Namascar = Bonjour
 	Kyuki = parce que / because
 	Kaha = where / où
 	Kon se = from which / depuis quel
-	
 #phrases
 	... kahaan hai ? = Where is ... ?
 	Isakee keemat kitanee hai ? = How much does it cost ?
 	Main kahaan pa sakata hoon ... ? = Where can I find ... ?
-	
-
-
 ## Verbes
 #verbes
 	Khana = To eat / manger
