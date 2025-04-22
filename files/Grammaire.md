@@ -123,6 +123,7 @@ Example :
 
 ## Action présente, en déroulement
 	Kya kar rahe = do-ing
+
 	
 
 
@@ -145,6 +146,16 @@ Examples :
 - Vah padhti hai. = She reads.
 - Hum khelte hain. = We play.
 
+## Past tense
+	Karta + ne + kriya mool + yaa / ii / e
+	Yaa = masculin singulier
+	ii = feminin pluriel
+	e = pluriel
+ Exemples :
+	Maine khaana khaya = I ate food.
+	Usne kitaab padhi = She read a book.
+	Unhone khel khele = They played games.
+
 ## Future tense :
 > verbe + oonga / oongi / engi / enge (genres / singuliers-pluriel)
 
@@ -154,6 +165,9 @@ Example :
 - Ve cricket khelenge. = They will play cricket. (M)
 - Ve kitaaben padhengee. = They will read books. (F)
 - 
+
+
+
 
 
 
