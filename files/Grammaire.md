@@ -123,22 +123,12 @@ Example :
 
 ## Action présente, en déroulement
 	Kya kar rahe = do-ing
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Past tense
+	Karta + ne + kriya mool + yaa / ii / e
+	Yaa = masculin singulier
+	ii = feminin pluriel
+	e = pluriel
+### Exemples
+	Maine khaana khaya = I ate food.
+	Usne kitaab padhi = She read a book.
+	Unhone khel khele = They played games.
