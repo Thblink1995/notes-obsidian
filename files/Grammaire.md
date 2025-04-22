@@ -123,10 +123,6 @@ Example :
 
 ## Action présente, en déroulement
 	Kya kar rahe = do-ing
-
-	
-
-
 # Tenses
 
 ## Present tense :
