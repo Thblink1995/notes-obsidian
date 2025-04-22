@@ -63,6 +63,8 @@ Namaste / Namascar = Bonjour
 	Rona = To cry 
 	Hassna = To laugh
 	Banana/Pakana = To cook
+	seekhna = apprendre / to learn
+	nikalna = quitter / to leave
 	
 	Pasand = Aimer
 	sikhyaenge = Enseigner
@@ -93,6 +95,8 @@ Namaste / Namascar = Bonjour
 	Yeahai mai dost co = She is my friend
 	Tum kya kar rahe ho? = what are you doing ?
 	Chalne ka samay ho gaya hai. = It's time to go.
+	Aap Kal kese the ? = How were you yesterday ?
+	Kya main aapse kuch puch sukta hoon ? = Can I ask you something ?
 ## Urgences
 	Police ko bulaiye ! = Call the police !
 	Muhje doctor chahiye = I need a doctor
@@ -170,6 +174,8 @@ Namaste / Namascar = Bonjour
 	Shikshak = Prof
 	Samjhaya = La classe
 	Chalo = Let's go
+	sabse pass = nearest / le plus proche
+	pass = proche
 ## Animaux
 	Gae = Cow
 	Dog = Kuta

@@ -126,7 +126,34 @@ Example :
 	
 
 
+# Tenses
 
+## Present tense :
+
+> verbe + -ta/-ti/-te + ... hoon/hai/hain/ho .
+
+Fonctionnement : 
+- -ta / hoon : il
+- -ti  / hai : elle
+- -te / hain : ils
+- -tiin / ho : elles
+
+Examples : 
+- Main khaata hoon. = I eat. (male)
+- Main khaati hoon. = I eat. (female)
+- Vah padhta hai. = He reads.
+- Vah padhti hai. = She reads.
+- Hum khelte hain. = We play.
+
+## Future tense :
+> verbe + oonga / oongi / engi / enge (genres / singuliers-pluriel)
+
+Example :
+- Main school jaoonga. = I will go to school. (M)
+- Main school jaoongi. = I will go to school. (F)
+- Ve cricket khelenge. = They will play cricket. (M)
+- Ve kitaaben padhengee. = They will read books. (F)
+- 
 
 
 
