@@ -8,7 +8,7 @@ Namaste / Namascar = Bonjour
 	bachpan = Childhood
 	naachna = Danse
 	sath = Avec
-	Khareedaree = Shopping
+	Khareedaree = Locataire
 	Chumi = Kiss
 	Bahut = Very (acha = good, bahut acha = very good)
 	Sub = Tous
@@ -17,15 +17,15 @@ Namaste / Namascar = Bonjour
 	 Aramdayak = Confortable
 	 Swadisht = Délicieux
 	 Kya aap ? = Do you ?
-	 Ghass = Herbe
+	 Ghaas = Herbe
 	 Khush = Joyeux
 	 Madad = A l'aide
-	 Sharahk = Bouge/Casse toi
+	 Sarak = Bouge/Casse toi
 	 Naya = Nouveau
-	 Nouvel an = Nayaa saal
+	 Nayaa saal = Nouvel an 
 	 Ya = Ou
 	 Loge = Les gens
-	 Tsundare = Mignon
+	 Sundare = Magnifique
 	 Suraksha = Protective
 	 Rukein = Attend
 # Grammaire / structure
@@ -53,13 +53,14 @@ Namaste / Namascar = Bonjour
 	Likhna = To write  / écrire
 	Chalna = To walk / marcher
 	Bulaiye = To call / appeler
-	Honeko = être
-	Dena = Donner
+	Honeko = Be /être
+	Dena = Give / Donner
 	Bhagna = To run
 	Pehnana = To wear 
 	Rona = To cry 
 	Hassna = To laugh
 	Banana/Pakana = To cook
+	Banana also means making, so Banana pakana = making food
 	seekhna = apprendre / to learn
 	nikalna = quitter / to leave
 	
@@ -89,7 +90,7 @@ Namaste / Namascar = Bonjour
 	Khidki band Kardo = Close the window
 	Kiprya baith jao = Please, sit down
 	Mai university jaa raha hu = I am going to the university
-	Yeahai mai dost co = She is my friend
+	Yeahai meri dost hai = She is my friend
 	Tum kya kar rahe ho? = what are you doing ?
 	Chalne ka samay ho gaya hai. = It's time to go.
 	Aap Kal kese the ? = How were you yesterday ?
@@ -97,14 +98,14 @@ Namaste / Namascar = Bonjour
 ## Urgences
 	Police ko bulaiye ! = Call the police !
 	Muhje doctor chahiye = I need a doctor
-	Meri madad kijye ! = Help !
-	Meri madad chaiye. = I need your help.
+	Meri madad kijye! = I need your help!
+	Meri madad chaiye? = Do you need my help?
 ## Restaurant 
 	Kya aapke paas menu hai ? = Do you have a menu ?
 	Muhje … chahyie = I would like …
 	Bil dijiye = the bill, please
 	Yeh bahut swadisht hai ! = it’s delicious !
-	Kitri der aur lagegi ? =  ça va prendre combien de temps ?
+	Kitni der aur lagegi ? =  ça va prendre combien de temps ?
 
 ## Présentation
 	Aap kaise ho ? = Comment allez vous ?
@@ -116,7 +117,7 @@ Namaste / Namascar = Bonjour
 	
 	Mai theek hu. = Je vais bien. 
 	Nahi hu = pas bien
-	
+
 	Aapka naam kya hai ? = Comment vs appelez vs ?
 	Mera nam ... hai. = je m’appelle ...
 	||
@@ -124,7 +125,7 @@ Namaste / Namascar = Bonjour
 	Tera naam Maxime hai ? = Tu t’appelles Maxime ?
 	
 	Tum kaha rahte ho ? = Where do you stay ?
-	Kya tum Panjabi bolte ho = Je vis dans le Penjabi
+	Kya tum Panjabi bolte ho = Je parle le Penjabi
 	
 	Aap/tu kahan se hai ? = D’où venez vous ?
 	Mai France se hu. = Je viens de France.
@@ -138,8 +139,7 @@ Namaste / Namascar = Bonjour
 	
 	Kya aap dorha sakte hain ? = Vs pouvez répéter ?
 	
-	Ache nehi se bolta hou = Je parle pas bien hindi
-	Main Hindi tarah se nahi bolta = Je parle pas bien hindi
+	Main Hindi achi tarah se nahi bolta = Je parle pas bien hindi
 	bolti (F)
 	
 	Aapse milkar kushi hui. = Enchanté.
@@ -164,11 +164,11 @@ Namaste / Namascar = Bonjour
 	Madad = Help
 	Dhanyavad = Merci
 	Maaf kijye = Excusez moi
-	Maaf kar = Excusez moi (Informel)
+	Maaf karde = Excusez moi (Informel)
 	Mujhe maaf karen = I am sorry
 	Sashriyakaal = Bonjour (informal)
-	Shikshak = Prof
-	Samjhaya = La classe
+	Shikshak = Student (on dit tu es l'élève de ...)
+	Coksha = La classe
 	Chalo = Let's go
 	sabse pass = nearest / le plus proche
 	pass = proche
@@ -199,7 +199,7 @@ Namaste / Namascar = Bonjour
 	Orange = Santri
 	Pink = Gulabi
 	Red = Laal
-	White = Safeed
+	White = Safeed / Gola (men) Goli (women)
 	Yellow = Peela
 ## Divers
 ### Meubles
@@ -236,32 +236,32 @@ Namaste / Namascar = Bonjour
 ## Parties du corps
 	Ball = Cheveux
 	Chamari = Peau
-	Con = Oreille
+	Can = Oreille
 	Dil = Coeur
 	Haath = Mains
-	Hank = Yeux
+	Ahank = Yeux
 	Hoth = Lèvres
-	Kanta = Epaules
+	Kandha = Epaules
 	Khuun = Sang
 	Nakhun = Ongles
 	Naak = Nez
-	Paidhe = Jambes
+	Pahr = Jambes
 	Paite = Estomac
-	Peetha = Dos
+	Peeth = Dos
 	Sir = Tête
 ## Pronoms
 	Mai = Je
 	Tu/tum = Tu
 	Veh/ve = Il/Elle
 	Ham = Nous
-	Aaap = Vous
+	Aap = Vous
 	Vo = Ils
 	
 	Ma, Muhje, Meri = Me, Myself, I
 ## Vêtements
 	Cloth = Kapre
 
-	Baniyan = Vest
+	Baniyan = Under shirt
 	Chaphal = Slippers/Flip-Flop
 	Chota/Chote = Short
 	Dastane = Gloves
@@ -269,7 +269,7 @@ Namaste / Namascar = Bonjour
 	Kameez = Shirt
 	Pagdis = Turban
 	Patloon/Pant = Trousers/Pants
-	Payajama = Pajamas
+	Pajama = Pajamas
 	Shopping = Shopping
 	Sweater = Sweater
 	Topi = Cap/Hat
