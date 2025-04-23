@@ -30,7 +30,7 @@ En Hindi, on mets toujours l'objet avant le verbe.
 	You (formal) = Aap
 	Your / Yours = Tumhara / Aapka
 	Yourself = Khud
-
+	- Kya aapka khana jhud banaate ho ? = Do you cook by yourself ? (banate = to cook / to make)
 ## Troisième personne
 
 	He / she = wah / vo

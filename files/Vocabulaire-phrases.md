@@ -29,6 +29,7 @@ Namaste / Namascar = Bonjour
 	 Suraksha = Protective
 	 Rukein = Attend
 	 chuti = vacances
+	 banata = to cook / to make / to craft
 # Grammaire / structure
 ## Interrogatifs
 #vocabulaire
