@@ -4,41 +4,44 @@ En Hindi, on mets toujours l'objet avant le verbe.
 
 # Pronoms
 
-	Mai = Je
-	Tu/tum = Tu
-	Veh/ve = Il/Elle
-	Ham = Nous
-	Aap = Vous
-	Vo = Ils
+Mai = Je
+Tu/tum = Tu
+Veh/ve = Il/Elle
+Ham = Nous
+Aap = Vous
+Vo = Ils
 
 ## Première personne 
 
-	I = Main
-	Me = Muhje
-	Myself = Khud
-	My = Mera / Meri (M/F)
-	
-	We = Hum
-	Us = Humein
-	Ours / our = Hamara
-	- Hamara kara kisne hai. = Who ate our food ?
+I = Main
+Me = Muhje
+Myself = Khud
+My = Mera / Meri (M/F)
+
+We = Hum
+Us = Humein
+Ours / our = Hamara
+
+	Hamara kara kisne hai. = Who ate our food ?
 
 ## Seconde personne
 
-	You (informal) = Tu
-	You = Tum
-	You (formal) = Aap
-	Your / Yours = Tumhara / Aapka
-	Yourself = Khud
-	- Kya aapka khana jhud banaate ho ? = Do you cook by yourself ? (banate = to cook)
+You (informal) = Tu
+You = Tum
+You (formal) = Aap
+Your / Yours = Tumhara / Aapka
+Yourself = Khud
+
+	Kya aapka khana jhud banaate ho ? = Do you cook by yourself ? (banate = to cook)
+
 ## Troisième personne
 
-	He / she = wah / vo
-	Him / her = use
-	His / her = uska / uski
-	
-	They = ve / vo
-	Them = unhein
+He / she = wah / vo
+Him / her = use
+His / her = uska / uski
+
+They = ve / vo
+Them = unhein
 
 # Cases / Tenses
 
@@ -131,7 +134,7 @@ Per = on
 
 Example :
 
-- Ram studies **in** school. -> Ram school **mein** padha hai.
+- Ram studies **in** school. -> Ram school **mein* padha hai.
 - He is playing **in** the garden. -> Wah bagiche **mein** khel raha hai.
 - Keep the pen **on** the table. -> Pen ko table **per** rak do.
 
