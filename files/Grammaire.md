@@ -11,18 +11,34 @@ En Hindi, on mets toujours l'objet avant le verbe.
 	Aap = Vous
 	Vo = Ils
 
-## Pronoms première personne 
+## Première personne 
 
-I = Main
-Me = Muhje
-Myself = Khud
-My = Mera / Meri (M/F)
+	I = Main
+	Me = Muhje
+	Myself = Khud
+	My = Mera / Meri (M/F)
+	
+	We = Hum
+	Us = Humein
+	Ours / our = Hamara
+	- Hamara kara kisne hai. = Who ate our food ?
 
-We = Hum
-Us = Humein
+## Seconde personne
 
+	You (informal) = Tu
+	You = Tum
+	You (formal) = Aap
+	Your = Tumhara / Aapka
+	Yourself = Khud
 
+## Troisième personne
 
+	He / she = wah / vo
+	Him / her = use
+	His / her = uska / uski
+	
+	They = ve / vo
+	Them = unhein
 
 
 # Cases
