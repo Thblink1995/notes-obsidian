@@ -143,10 +143,12 @@ Examples :
 - Hum khelte hain. = We play.
 
 ## Past tense
-	Karta + ne + kriya mool + yaa / ii / e
-	Yaa = masculin singulier
-	ii = feminin pluriel
-	e = pluriel
+>Karta + ne + kriya mool + yaa / ii / e
+
+Yaa = masculin singulier
+ii = feminin pluriel
+e = pluriel
+
  Exemples :
 	Maine khaana khaya = I ate food.
 	Usne kitaab padhi = She read a book.
