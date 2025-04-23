@@ -28,6 +28,7 @@ Namaste / Namascar = Bonjour
 	 Sundare = Magnifique
 	 Suraksha = Protective
 	 Rukein = Attend
+	 chuti = vacances
 # Grammaire / structure
 ## Interrogatifs
 #vocabulaire

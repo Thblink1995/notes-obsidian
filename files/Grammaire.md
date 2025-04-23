@@ -11,12 +11,19 @@ En Hindi, on mets toujours l'objet avant le verbe.
 	Aap = Vous
 	Vo = Ils
 
-Ma, Muhje, Meri = Me, Myself, I
+## Pronoms première personne 
 
-Hoon va à la fin de la phrase pour parler de soi même.
+I = Main
+Me = Muhje
+Myself = Khud
+My = Mera / Meri (M/F)
 
-1 lakh = 100 000
-1 crore = 10 000 000
+We = Hum
+Us = Humein
+
+
+
+
 
 # Cases
 ## Nominative - Karta
@@ -125,15 +132,19 @@ Example :
 	Kya kar rahe = do-ing
 # Tenses
 
-## Present tense :
+## Present tense 
 
 > verbe + -ta/-ti/-te + ... hoon/hai/hain/ho .
+> et ajouter raha de temps en temps
+> be + ing faut rajouter le raha
 
 Fonctionnement : 
 - -ta / hoon : il
 - -ti  / hai : elle
 - -te / hain : ils
 - -tiin / ho : elles
+
+Main a **raha** hoon. = I am coming.
 
 Examples : 
 - Main khaata hoon. = I eat. (male)
@@ -154,7 +165,7 @@ e = pluriel
 	Usne kitaab padhi = She read a book.
 	Unhone khel khele = They played games.
 
-## Future tense :
+## Future tense 
 > verbe + oonga / oongi / engi / enge (genres / singuliers-pluriel)
 
 Example :
