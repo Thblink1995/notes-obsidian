@@ -28,7 +28,7 @@ En Hindi, on mets toujours l'objet avant le verbe.
 	You (informal) = Tu
 	You = Tum
 	You (formal) = Aap
-	Your = Tumhara / Aapka
+	Your / Yours = Tumhara / Aapka
 	Yourself = Khud
 
 ## Troisième personne
@@ -150,7 +150,7 @@ Example :
 	Kya kar rahe = do-ing
 ## Tenses
 
-### Present tense 
+### Present tense  
 
 > verbe + -ta/-ti/-te + ... hoon/hai/hain/ho .
 > et ajouter raha de temps en temps
