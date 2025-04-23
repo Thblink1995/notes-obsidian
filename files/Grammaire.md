@@ -40,9 +40,11 @@ En Hindi, on mets toujours l'objet avant le verbe.
 	They = ve / vo
 	Them = unhein
 
+# Cases / Tenses
 
-# Cases
-## Nominative - Karta
+> Ils sont incompatibles.
+## Cases
+### Nominative - Karta
 
 >*Que au past tense, décrit la personne qui agit.*
 
@@ -56,7 +58,7 @@ Example :
 - He hit me. -> ous ***ne*** muche mara (He me hit)
 - Tum ***ne*** letter likha -> (Tu letter wrote)
 
-## Objective/accusative - Karm 
+### Objective/accusative - Karm 
 
 >*It denotes the object of the action in a sentence.*
 
@@ -69,7 +71,7 @@ Example :
   et on met aussi ***ko*** juste devant l'objet principal
 - Shikshak ne vidyarthiyon ko samjhaya -> shikshak = prof; samjhaya = la classe
 
-## Instrumental case - Karan 
+### Instrumental case - Karan 
 
 >*It indicates the means or instrument by which an action is performed.*
 
@@ -83,7 +85,7 @@ Example :
 - Child is playing with the toy. -> Bacha kiloma ***se*** ke hai.
 - I fell from the chair. -> Main kursee ***se*** gir gaya.
 
-## Dative case - Sampradan
+### Dative case - Sampradan
 
 >*It indicates the receiver of an action.*
 
@@ -96,7 +98,7 @@ Example :
 - Ravi gave Mohan a book. -> Ravi ne Mohan ***ko*** ek kitaab di.
 - We brought food for the poor. -> Hum gareebon **ke liye** khana laye.
 
-## Ablative case - Apādān
+### Ablative case - Apādān
 
 >*It shows separation or movement away from something.*
 
@@ -108,7 +110,7 @@ Example :
   Le **se** s'est rajouté pcq la feuille s'est éloignée de l'arbre
 - I took this book from a friend. -> Maine yeh kitaab dost **se** li.
 
-## Genitive/possessive case - Sambandh
+### Genitive/possessive case - Sambandh
 
 >*It indicates possession or relationship.*
 
@@ -120,7 +122,7 @@ Example :
 - This is Ram ***'s*** house. -> Yeh Ram ***ka*** ghar hai;
 - My mother ***'s*** saree is very beautiful. -> Meri maa ***ki*** saadi bahut sundar hai.
 
-## Locative case - Adhikaran
+### Locative case - Adhikaran
 
 > *It denotes the location or place where an action occurs*
 
@@ -133,7 +135,7 @@ Example :
 - He is playing **in** the garden. -> Wah bagiche **mein** khel raha hai.
 - Keep the pen **on** the table. -> Pen ko table **per** rak do.
 
-## Vocative case - Sambodhan
+### Vocative case - Sambodhan
 
 > *It is used to adress someone directly.*
 
@@ -144,11 +146,11 @@ Example :
 - Hey boy ! Come here ! -> Are ladke! Idhar aao.
 - Oh Ram! Help me. -> He Ram! Meri madad karo.
 
-## Action présente, en déroulement
+### Action présente, en déroulement
 	Kya kar rahe = do-ing
-# Tenses
+## Tenses
 
-## Present tense 
+### Present tense 
 
 > verbe + -ta/-ti/-te + ... hoon/hai/hain/ho .
 > et ajouter raha de temps en temps
@@ -169,7 +171,7 @@ Examples :
 - Vah padhti hai. = She reads.
 - Hum khelte hain. = We play.
 
-## Past tense
+### Past tense
 >Karta + ne + kriya mool + yaa / ii / e
 
 Yaa = masculin singulier
@@ -181,7 +183,7 @@ e = pluriel
 	Usne kitaab padhi = She read a book.
 	Unhone khel khele = They played games.
 
-## Future tense 
+### Future tense 
 > verbe + oonga / oongi / engi / enge (genres / singuliers-pluriel)
 
 Example :
