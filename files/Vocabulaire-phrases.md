@@ -432,4 +432,3 @@ Lekin = But
 Ya = Or
 Jab = When (date connue)
 Kab = When (date inconnue)
-
