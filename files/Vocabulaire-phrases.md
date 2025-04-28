@@ -409,10 +409,23 @@ woh kya tha ? = What was that ?
 	Daayein = Droite
 	Seedha = Tout droit
 	
-
-
-
 # Présentation
 #phrases
 	Aapka swagat hai = You're welcome
 	Shama kijiye = Excusez moi
+
+## Key Vocabulary
+	hai ~= Is, décrit aussi une action passée
+	hoon = Am
+	ho = Be/Happen
+	tha = Was (masculin)
+	thi = Was (féminin)
+	the = Were (pluriel)
+	hoga = Will be/Might be
+	Hogi = Will be(féminin)
+	Honge = Will be(pluriel)
+	Nahin = Not
+	Aur = And
+	Lekin = But
+	Ya = Or
+	Jab = When
