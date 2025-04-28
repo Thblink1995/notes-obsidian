@@ -73,6 +73,11 @@ Namaste / Namascar = Bonjour
 
 # Phrases 
 #phrases 
+## Important
+	Kar = doing
+	Karvunga -> Futur
+	Karlyia -> Past
+	Kar rahahu -> Present
 ## Miscellaneous 
 	Main khush hoon = I am happy
 	Main Thaka/Thaki hoon = I am tired
