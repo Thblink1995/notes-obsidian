@@ -414,7 +414,7 @@ woh kya tha ? = What was that ?
 	Aapka swagat hai = You're welcome
 	Shama kijiye = Excusez moi
 
-## Key Vocabulary
+# Key Vocabulary
 	hai ~= Is, décrit aussi une action passée
 	hoon = Am
 	ho = Be/Happen
