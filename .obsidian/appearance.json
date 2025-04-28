@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
   "cssTheme": "80s Neon"
+=======
+  "cssTheme": "80s Neon",
+  "theme": "obsidian"
+>>>>>>> origin/main
 }
