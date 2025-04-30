@@ -422,18 +422,15 @@ woh kya tha ? = What was that ?
 
 # Key Vocabulary
 #vocabulaire
-hai ~= Is, décrit aussi une action passée
-hoon = Am
-ho = Be/Happen
-tha = Was (masculin)
-thi = Was (féminin)
-the = Were (pluriel)
-hoga = Will be/Might be
-Hogi = Will be(féminin)
-Honge = Will be(pluriel)
+
 Nahin = Not
 Aur = And
 Lekin = But
 Ya = Or
 Jab = When (date connue)
 Kab = When (date inconnue)
+Kyonki = because
+To = so / then
+Agar = if
+Phir = then / again
+Par = but / on

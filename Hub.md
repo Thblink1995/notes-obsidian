@@ -1,5 +1,6 @@
 #   [[Hub]]
 [[Vocabulaire-phrases]]
 [[Grammaire]]
+[[Conjugaisons]]
 [[code example]]
 [[Welcome]]
