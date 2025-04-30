@@ -67,7 +67,6 @@ Namaste / Namascar = Bonjour
 	Banana also means making, so Banana pakana = making food
 	seekhna = apprendre / to learn
 	nikalna = quitter / to leave
-	jana = aller
 	
 	Pasand = Aimer
 	sikhyaenge = Enseigner
@@ -416,7 +415,7 @@ woh kya tha ? = What was that ?
 	Baayein = Gauche
 	Daayein = Droite
 	Seedha = Tout droit
-	
+
 # Présentation
 #phrases
 	Aapka swagat hai = You're welcome
@@ -437,6 +436,8 @@ Agar = if
 Phir = then / again
 Par = but / on
 
+#phrases
 Exemples : 
 - Ma kal nahi aauge kuuki kal muhje kahi jana hai = je ne viendrai pas demain pcq j'irais qque part.
 - To tum kal nahi aoge. = So, you won't be coming tomorrow.
+- Agar tum cahate to tum karte. = If you wanted you would have done.

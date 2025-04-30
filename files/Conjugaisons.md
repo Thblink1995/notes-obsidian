@@ -9,13 +9,13 @@ hai ~= Is, décrit aussi une action passée
 hoon = Am
 
 Passé :
-	tha = Was (masculin)
-	thi = Was (féminin)
-	the = Were (pluriel
+	tha = Was (M)
+	thi = Was (F)
+	the = Were (P)
 Futur :
 	hoga = Will be/Might be
-	Hogi = Will be(féminin)
-	Honge = Will be(pluriel)
+	Hogi = Will be (F)
+	Honge = Will be (P)
 
 ## faire / to do
 
@@ -32,7 +32,11 @@ Passé continu :
 	kar rahe the = were doing (P)
 
 Passé simple :
-	
+	ki = did (F)
+	kiye = did (P)
+
+kiya gaya = was done (M)
 
 karna hai = have to do
 karna padega = will have to do
+
