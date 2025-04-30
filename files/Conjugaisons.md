@@ -32,6 +32,7 @@ Passé continu :
 	kar rahe the = were doing (P)
 
 Passé simple :
+	kiya = did (M)
 	ki = did (F)
 	kiye = did (P)
 
