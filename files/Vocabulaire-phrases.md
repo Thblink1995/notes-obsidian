@@ -31,6 +31,7 @@ Namaste / Namascar = Bonjour
 	 chuti = vacances
 	 banata = to cook / to make / to craft
 	 jabhi = whenever
+	 kahi = somewhere / qque part
 # Grammaire / structure
 ## Interrogatifs
 #vocabulaire
@@ -66,6 +67,7 @@ Namaste / Namascar = Bonjour
 	Banana also means making, so Banana pakana = making food
 	seekhna = apprendre / to learn
 	nikalna = quitter / to leave
+	jana = aller
 	
 	Pasand = Aimer
 	sikhyaenge = Enseigner
@@ -434,3 +436,7 @@ To = so / then
 Agar = if
 Phir = then / again
 Par = but / on
+
+Exemples : 
+- Ma kal nahi aauge kuuki kal muhje kahi jana hai = je ne viendrai pas demain pcq j'irais qque part.
+- To tum kal nahi aoge. = So, you won't be coming tomorrow.
