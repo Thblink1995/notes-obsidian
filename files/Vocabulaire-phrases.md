@@ -3,6 +3,7 @@
 Namaste / Namascar = Bonjour
 
 # A classer
+#vocabulaire
 	bahut ache = bravo
 	Bharat = India
 	bachpan = Childhood
@@ -181,6 +182,25 @@ Namaste / Namascar = Bonjour
 	Chalo = Let's go
 	sabse pass = nearest / le plus proche
 	pass = proche
+
+## Transitions
+	Nahin = Not
+	Aur = And
+	Lekin = But
+	Ya = Or
+	Jab = When (date connue)
+	Kab = When (date inconnue)
+	Kyonki = because
+	To = so / then
+	Agar = if
+	Phir = then / again
+	Par = but / on
+
+#phrases
+Exemples : 
+- Ma kal nahi aauge kuuki kal muhje kahi jana hai = je ne viendrai pas demain pcq j'irais qque part.
+- To tum kal nahi aoge. = So, you won't be coming tomorrow.
+- Agar tum cahate to tum karte. = If you wanted you would have done.
 ## Animaux
 	Gae = Cow
 	Dog = Kuta
@@ -421,23 +441,3 @@ woh kya tha ? = What was that ?
 	Aapka swagat hai = You're welcome
 	Shama kijiye = Excusez moi
 
-# Key Vocabulary
-#vocabulaire
-
-Nahin = Not
-Aur = And
-Lekin = But
-Ya = Or
-Jab = When (date connue)
-Kab = When (date inconnue)
-Kyonki = because
-To = so / then
-Agar = if
-Phir = then / again
-Par = but / on
-
-#phrases
-Exemples : 
-- Ma kal nahi aauge kuuki kal muhje kahi jana hai = je ne viendrai pas demain pcq j'irais qque part.
-- To tum kal nahi aoge. = So, you won't be coming tomorrow.
-- Agar tum cahate to tum karte. = If you wanted you would have done.

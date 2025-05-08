@@ -12,6 +12,7 @@ Passé :
 	tha = Was (M)
 	thi = Was (F)
 	the = Were (P)
+
 Futur :
 	hoga = Will be/Might be
 	Hogi = Will be (F)
