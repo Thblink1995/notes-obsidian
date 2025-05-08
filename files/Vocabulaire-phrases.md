@@ -299,7 +299,7 @@ Namaste / Namascar = Bonjour
 	Chaphal = tongues
 	Jute = shoes
 
-woh kya tha ? = What was that ?
+	woh kya tha ? = What was that ?
 
 ## Family
 #vocabulaire
